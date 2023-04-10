@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "Real-Time-Chat-App",
-  description: "chat with anyone",
+  description: "chat with friends",
 };
 
 export default function RootLayout({
